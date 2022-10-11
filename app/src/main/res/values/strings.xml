@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name_text">Aishwarya J Panampilly</string>
+    <string name="profession_text">Android Developer</string>
+    <string name="mobile_text">+ 99999 88888</string>
+    <string name="email_text">aishwarya.panampilly@somemail.com</string>
+    <string name="share_text">aishwarya_panampilly</string>
+</resources>
